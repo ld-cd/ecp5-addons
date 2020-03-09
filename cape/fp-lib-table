@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name thing)(type KiCad)(uri /home/aled/workspace/ecp5-addons/cape/footprints/sdram/TSOP54.pretty)(options "")(descr ""))
+  (lib (name browny)(type KiCad)(uri /home/aled/workspace/ecp5-addons)(options "")(descr ""))
+)

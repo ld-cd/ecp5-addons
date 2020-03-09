@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mt48lc16m16a2tg.lib)(type Legacy)(uri ${KIPRJMOD}/footprints/sdram/mt48lc16m16a2tg.lib)(options "")(descr ""))
+)
